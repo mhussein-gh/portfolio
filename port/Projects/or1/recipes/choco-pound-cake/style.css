@@ -1,0 +1,45 @@
+*{
+    margin: 10px 50px;
+    background-color: grey;
+    font-family: 'Lucida Sans',Verdana, sans-serif;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    margin:0px;
+    padding: 10px;
+}
+
+img{
+    display: block;
+    margin: 15px auto;
+}
+
+li{
+    margin-left: -20px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    border-color: white;
+}
+strong{
+    margin: 0px;
+}
+
+a:visited,
+a:link{
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+a{
+    width: 145px;
+    display: block;
+    margin: auto;
+}
